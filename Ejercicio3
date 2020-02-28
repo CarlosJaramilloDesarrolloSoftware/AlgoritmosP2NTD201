@@ -1,0 +1,12 @@
+run:
+Ingrese cantidad de partidos ganados
+2
+Ingrese cantidad de partidos empatados
+1
+Ingrese cantidad de partidos perdidos
+0
+////////*************////////////
+Tu puntaje total
+////////*************////////////
+7
+BUILD SUCCESSFUL (total time: 6 seconds)
