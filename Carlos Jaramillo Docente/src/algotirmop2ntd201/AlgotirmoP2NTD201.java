@@ -42,12 +42,10 @@ public class AlgotirmoP2NTD201 {
         
         
         //Salida
-        System.out.println("///////**************/////////");
-        System.out.println("Tu puntuación");
-        System.out.println("///////**************/////////");
-        System.out.println((cantidadBlanco * puntajeBlanco)
-                + (cantidadCorrectas * puntajeCorrectas)
-                + (cantidadIncorrectas * puntajeIncorrectas));
+        System.out.println("Total es = " + (
+                (cantidadBlanco * puntajeBlanco) + 
+                (cantidadCorrectas * puntajeCorrectas) + 
+                (cantidadIncorrectas * puntajeIncorrectas)));
         
         
     }
