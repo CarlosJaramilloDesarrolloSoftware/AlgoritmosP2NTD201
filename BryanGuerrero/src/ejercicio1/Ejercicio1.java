@@ -36,7 +36,7 @@ public class Ejercicio1 {
         System.out.print("Ingrese cantidad de respuestas en blanco: ");
         cantidadBlanco=sc.nextInt();
         
-        System.out.println("Tu puntuación es: ");
+        System.out.println("Tu puntuación Es: ");
         System.out.print("Puntaje de respuestas en blanco: "+ (cantidadBlanco*puntajeBlanco) + "\n"
                 + " Puntaje de respuestas correctas: " +(cantidadCorrectas*puntajeCorrectas) + "\n"
                 + " Puntaje de respuestas incorrectas: "+ (cantidadIncorrectas*puntajeIncorrectas) +"\n");
